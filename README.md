@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ytimg.com/vi/9AwmDuknPi4/maxresdefault.jpg)]<h1 align="center">
+[![MasterHead](https://ssodiumm.files.wordpress.com/2018/06/1_jb76mlzjinhgsqqvxm7lsq.gif)]<h1 align="center">
 Hi 👋, I'm Marcin Banak</h1>
 <h3 align="center">A computer science student at Uniwersytet Wrocławski</h3>
 
