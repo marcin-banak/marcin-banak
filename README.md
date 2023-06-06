@@ -1,4 +1,4 @@
-(img align="right" alt="Coding" width="400" src="https://hackernoon.com/images/f2px36fy.gif"
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://hackernoon.com/images/f2px36fy.gif)")
 <h1 align="center">Hi 👋, I'm Marcin Banak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
