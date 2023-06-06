@@ -1,4 +1,4 @@
-[![MasterHead][(https://ratenger.com/wp-content/uploads/2021/04/kak-nauchitsya-piton-samomu-doma.gif)]<h1 align="center">
+[![MasterHead](https://i.ytimg.com/vi/9AwmDuknPi4/maxresdefault.jpg)]<h1 align="center">
 Hi 👋, I'm Marcin Banak</h1>
 <h3 align="center">A computer science student at Uniwersytet Wrocławski</h3>
 
