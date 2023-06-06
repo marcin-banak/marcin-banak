@@ -4,7 +4,7 @@ Hi 👋, I'm Marcin Banak</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcin-banak&label=Profile%20views&color=0e75b6&style=flat" alt="marcin-banak" /> </p>
 
-- 🔭 I’m currently working on a **tower defense game in python**
+- 🔭 I’m currently working on a [tower defense game in python](https://github.com/marcin-banak/tower-defense-game.git)
 
 - 🌱 I’m currently learning **SQL and pygame**
 
@@ -19,7 +19,8 @@ Hi 👋, I'm Marcin Banak</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
@@ -30,6 +31,9 @@ Hi 👋, I'm Marcin Banak</h1>
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>   
+  </a> 
+  <a href="https://docs.racket-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/480px-Racket-logo.svg.png" alt="racket" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
