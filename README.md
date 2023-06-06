@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+📚 I'm currently studying computer science in Uniwersytet Wrocławski
 <!--
 **marcin-banak/marcin-banak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
