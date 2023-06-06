@@ -1,4 +1,4 @@
-[![MasterHead](https://hackernoon.com/images/f2px36fy.gif)]<h1 align="center">
+[![MasterHead]([https://hackernoon.com/images/f2px36fy.gif](https://ratenger.com/wp-content/uploads/2021/04/kak-nauchitsya-piton-samomu-doma.gif))]<h1 align="center">
 Hi 👋, I'm Marcin Banak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
